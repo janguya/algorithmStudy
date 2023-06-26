@@ -58,7 +58,6 @@ int main()
             pq.push(v[i].second);
             i--;
         }
-        cout << result << endl;
     }
 
     while (time > 0 && !pq.empty())
