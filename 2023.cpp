@@ -32,7 +32,7 @@ int main() {
         }
       }
     }
-    v = tmpV;
+    v = tmpV; 
   }
 
   for (auto i : v) {
